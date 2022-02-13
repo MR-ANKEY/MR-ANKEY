@@ -5,6 +5,7 @@
  
 </div>
 
+<br>
 <a href="https://twitter.com/MR_ANKEY">
   <img align="left" alt="Ankit's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -24,6 +25,7 @@
   <img align="left" alt="Ankit's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
+<br>
 
 > - 🔭 I’m currently pursuing my **ENTC Engineering in JSCOE college.**  
 > - 💬 Ask me about **programming languages** `Python`,`c`
