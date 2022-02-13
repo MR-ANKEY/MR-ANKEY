@@ -7,9 +7,10 @@
 > - 😄 Pronouns: `He/His`  
 > - ⚡ Fun fact: I spend almost **12 hours** every day on phone/laptop .  
 
-<div align="center">
 
- <a href="https://twitter.com/MR_ANKEY">
+
+<div align="center">
+<a href="https://twitter.com/MR_ANKEY">
   <img align="left" alt="Ankit's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/MR-ANKEY">
@@ -28,11 +29,6 @@
   <img align="left" alt="Ankit's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
  
-</div>
-
-
-<div align="center">
-
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
