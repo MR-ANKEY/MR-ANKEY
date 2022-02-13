@@ -42,9 +42,7 @@
 
 
 
-# Hola I'am Ankit Prajapati,  
-
-     Nick Name = "Mr. Ankey"
+# Hola I'am Ankit Prajapati,
 
 > - 🔭 I’m currently pursuing my **ENTC Engineering in JSCOE college**  
 > - 💬 Ask me about **programming languages**
