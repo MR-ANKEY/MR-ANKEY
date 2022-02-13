@@ -1,7 +1,4 @@
 
-# Hola, I'm [Ankit Prajapati!](https://github.com/MR-ANKEY/MR-ANKEY) 👋
-
-
 <a href="https://twitter.com/MR_ANKEY">
   <img align="left" alt="Ankit's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -26,13 +23,6 @@
 <br/>
 
 
-- 🔭 I’m currently studing in 2nd Year of ENTC.
-- 💬 Ask me about programming languages or any tech-related stuff.
-- 📫 How to reach me: [Instragram](https://instagram.com/MR_ANKEY/)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours every day on phone/laptop .
-
-
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
@@ -42,11 +32,10 @@
 
 
 
-# Hola I'am Ankit Prajapati,
+# Hola I'm [Ankit Prajapati!](https://github.com/MR-ANKEY/MR-ANKEY) 👋
 
-> - 🔭 I’m currently pursuing my **ENTC Engineering in JSCOE college**  
-> - 💬 Ask me about **programming languages**
-`Python`,`c`,
+> - 🔭 I’m currently pursuing my **ENTC Engineering in JSCOE college.**  
+> - 💬 Ask me about **programming languages** `Python`,`c`
 > - 📫 How to reach me: [Instagram](https://instagram.com/MR_ANKEY/) 
-> - 😄 Pronouns: **He/His**  
+> - 😄 Pronouns: `He/His`  
 > - ⚡ Fun fact: I spend almost **12 hours** every day on phone/laptop .  
