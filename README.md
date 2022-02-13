@@ -1,5 +1,10 @@
 
+<div align="center">
+
 # Hola I'm [Ankit Prajapati!](https://github.com/MR-ANKEY/MR-ANKEY) 👋
+
+</div>
+
 
 > - 🔭 I’m currently pursuing my **ENTC Engineering in JSCOE college.**  
 > - 💬 Ask me about **programming languages** `Python`,`c`
