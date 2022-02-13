@@ -2,6 +2,8 @@
 <div align="center">
 
 # Hola I'm [Ankit Prajapati!](https://github.com/MR-ANKEY/MR-ANKEY) 👋
+ 
+</div>
 
 <a href="https://twitter.com/MR_ANKEY">
   <img align="left" alt="Ankit's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -21,8 +23,6 @@
 <a href="https://www.facebook.com/ankey2603/">
   <img align="left" alt="Ankit's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
- 
-</div>
 
 
 > - 🔭 I’m currently pursuing my **ENTC Engineering in JSCOE college.**  
