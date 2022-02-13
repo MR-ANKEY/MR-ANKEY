@@ -5,6 +5,20 @@
  
 </div>
 
+> - 🔭 I’m currently pursuing my **ENTC Engineering in JSCOE college.**  
+> - 💬 Ask me about **programming languages** `Python`,`c`
+> - 📫 How to reach me: [Instagram](https://instagram.com/MR_ANKEY/) 
+> - 😄 Pronouns: `He/His`  
+> - ⚡ Fun fact: I spend almost **12 hours** every day on phone/laptop .  
+
+<div align="center">
+ 
+### Show some ❤️ by starring some of the repositories!
+
+</div>
+
+<br>
+
 <div align="center">
 
 <a href="https://twitter.com/MR_ANKEY">
@@ -28,17 +42,3 @@
 
 </div>
 
-<br>
-
-> - 🔭 I’m currently pursuing my **ENTC Engineering in JSCOE college.**  
-> - 💬 Ask me about **programming languages** `Python`,`c`
-> - 📫 How to reach me: [Instagram](https://instagram.com/MR_ANKEY/) 
-> - 😄 Pronouns: `He/His`  
-> - ⚡ Fun fact: I spend almost **12 hours** every day on phone/laptop .  
-
-
-<div align="center">
- 
-### Show some ❤️ by starring some of the repositories!
-
-</div>
