@@ -18,34 +18,28 @@
 
 [![Spotify](https://novatorem-spotify-nine.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31zhiyhixszdvykt5tjg5vwvtfri)
 
+<br>
 
 ## **Connect with me:**
+
 <div align="center">
 
-<a href="https://linkedin.com/in/MR-ANKEY">
-  <img align="left" alt="Ankit's Linkdein" width="25px" src="./images/linkedin.svg" />
-</a>
-<a href="https://twitter.com/MR_ANKEY">
-  <img align="left" alt="Ankit's Twitter" width="25px" src="./images/twitter.svg" />
-</a>
-<a href="https://github.com/MR-ANKEY">
-  <img align="left" alt="Ankit's Github" width="25px" src="./images/github.svg" />
-</a>
-<a href="https://instagram.com/MR_ANKEY">
-  <img align="left" alt="Ankit's Instagram" width="25px" src="./images/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/ANKEY2603">
-  <img align="left" alt="Ankit's Facebook" width="25px" src="./images/facebook.svg" />
-</a>
-<a href="https://t.me/MR_ANKEY">
-  <img align="left" alt="Ankit's Telegram" width="25px" src="./images/telegram.svg" />
-</a>
+[<img align="left" alt="Ankit's Linkdein" width="30px" src="./images/linkedin.svg" />][linkedin]
 
+[<img align="left" alt="Ankit's Twitter" width="30px" src="./images/twitter.svg" />][twitter]
+
+[<img align="left" alt="Ankit's Github" width="30px" src="./images/github.svg" />][github]
+
+[<img align="left" alt="Ankit's Instagram" width="30px" src="./images/instagram.svg" />][instagram]
+
+[<img align="left" alt="Ankit's Facebook" width="30px" src="./images/facebook.svg" />][facebook]
+
+[<img align="left" alt="Ankit's Telegram" width="30px" src="./images/telegram.svg" />][telegram]
 </div>
 
+<br>
+<br>
 
-<br>
-<br>
 
 <div align="center">
  
@@ -53,7 +47,8 @@
 
 </div>
 
-<br/>
+<br>
+<br>
 
 
 [twitter]: https://twitter.com/MR_ANKEY
@@ -61,4 +56,4 @@
 [linkedin]: https://linkedin.com/in/MR-ANKEY
 [github]: https://github.com/MR-ANKEY
 [telegram]: https://t.me/MR_ANKEY
-[instagram]: https://www.facebook.com/ankey2603
+[facebook]: https://www.facebook.com/ankey2603
