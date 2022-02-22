@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hii there I'm [Ankit Prajapati!][github] 👋
+# **Hii there I'm [Ankit Prajapati!][github]** 👋
  
 </div>
 
@@ -14,12 +14,12 @@
 
 <br>
 
-### Spotify Playing
+## **Spotify Playing**
 
 [![Spotify](https://novatorem-spotify-nine.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31zhiyhixszdvykt5tjg5vwvtfri)
 
 
-## Connect with me:
+## **Connect with me:**
 <div align="center">
 
 <a href="https://linkedin.com/in/MR-ANKEY">
