@@ -12,8 +12,12 @@
 > - 😄 Pronouns: `He/His`  
 > - ⚡ Fun fact: I spend almost **12 hours** every day on phone/laptop .  
 
-
 <br>
+
+### Spotify Playing
+
+[![Spotify](https://novatorem-spotify-nine.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31zhiyhixszdvykt5tjg5vwvtfri)
+
 
 ## Connect with me:
 <div align="center">
