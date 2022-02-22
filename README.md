@@ -6,6 +6,7 @@
 </div>
 
 > - 🔭 I’m currently pursuing my **ENTC Engineering in JSCOE college.**  
+> - 🤣 I'm currently learning everything.  
 > - 💬 Ask me about **programming languages** `Python`,`c`
 > - 📫 How to reach me: [Instagram](https://instagram.com/MR_ANKEY/) 
 > - 😄 Pronouns: `He/His`  
