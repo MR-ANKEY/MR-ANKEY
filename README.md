@@ -5,7 +5,7 @@
  
 </div>
 
-> - 🔭 I’m currently pursuing my **ENTC Engineering in JSCOE college.**  
+> - 🔭 I’m currently pursuing my **E&TC Engineering in JSCOE pune.**  
 > - 🤣 I'm currently learning everything.  
 > - 💬 Ask me about **programming languages** `Python`,`c`
 > - 📫 How to reach me: [Telegram][telegram] 
@@ -14,11 +14,20 @@
 
 <br>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-ankey&show_icons=true&locale=en&layout=compact" alt="mr-ankey" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-ankey&show_icons=true&locale=en" alt="mr-ankey" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-ankey&" alt="mr-ankey" /></p>
+
+
+<!---
 ## **Spotify Playing**
 
 [![Spotify](https://novatorem-spotify-nine.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31zhiyhixszdvykt5tjg5vwvtfri)
 
 <br>
+-->
 
 ## **Connect with me:**
 
