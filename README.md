@@ -19,13 +19,13 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-ankey&" alt="mr-ankey" /></p>
 
 
-<!---
+
 ## **Spotify Playing**
 
 [![Spotify](https://novatorem-spotify-nine.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31zhiyhixszdvykt5tjg5vwvtfri)
 
 <br>
--->
+
 
 ## **Connect with me:**
 
